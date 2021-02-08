@@ -197,7 +197,7 @@ h6 {
   margin-right: 15px;
   margin-bottom: 3px;
 }
-.contact {
+.contact__footer {
   margin-left: 40px;
 }
 
@@ -264,6 +264,7 @@ h6 {
   color: #dd1144;
 }
 .english {
+  position: relative;
   margin-left: 40px;
 }
 .english_title {
@@ -273,6 +274,8 @@ h6 {
   margin-bottom: 15px;
 }
 .english_img {
+  position: absolute;
+  left: -12px;
   max-width: 800px;
   width: 100%;
   height: auto;
